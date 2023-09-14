@@ -4,7 +4,9 @@ function App() {
 
   return (
     <>
-     <h2 className='text-center text-3xl text-green-300 '>EmpowerRise client site </h2>
+      <h1 className="text-3xl text-center font-bold underline">
+        Hello world!
+      </h1>
     </>
   )
 }
